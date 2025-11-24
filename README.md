@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/banner-dashboard-ventas.png" width="800">
+</p>
+
 # 📊 Dashboard de Ventas – Power BI
 
 Proyecto desarrollado como parte de un **workshop práctico especializado en Power BI**, orientado a la creación de dashboards estratégicos y tácticos para el análisis del desempeño comercial. El tablero integra KPIs clave, visualizaciones interactivas y segmentadores que permiten comprender fácilmente el comportamiento de las ventas a diferentes niveles.
@@ -48,28 +52,29 @@ Uso detallado para análisis específicos:
 
 ## 🖼️ Capturas del Dashboard
 ![Portada](img/portada.png)  
-![VIsta Operativa](img/vista-operativa.png)  
+![Vista Estrategica](img/vista-estrategica.png)  
 ![Vista Táctica](img/vista-tactica.png)
 
 ---
-
-## 🌐 Dashboard Interactivo
-
-Accede al informe publicado en Power BI Service:
-👉 **Enlace público:** [https://app.powerbi.com/view?r=eyJrIjoiOTE0MTk1MGEtMzBjYS00MDY2LWI3MDQtZTYxYTAzYjZjOTdkIiwidCI6Ijc2NzM0NDQ5LTkzNGQtNGFlNy1hYzUzLWE5YmZkOTY5MTJjOSIsImMiOjR9]
-
----
-
-## 📄 Archivos Incluidos
-- 📘 **Reporte PDF:** Documentación del proyecto (`CASAS - PROYECTO FINAL.pdf`)
-- 📁 **Archivo PBIX:** Dashboard completo en Power BI
-- 🖼️ **Imágenes:** Capturas del tablero (carpeta `img/`)
-
----
-
 ## 🎯 Aprendizajes Obtenidos
 - Diferenciar dashboards estratégicos y tácticos.
 - Seleccionar visualizaciones apropiadas para cada análisis.
 - Implementación de KPIs, segmentadores y filtros dinámicos.
 - Integración de conceptos de BI con práctica real en Power BI.
+
+---
+## 🌐 Dashboard Interactivo
+
+Accede al informe publicado en Power BI Service:
+👉 **Enlace público:** https://app.powerbi.com/view?r=eyJrIjoiOTE0MTk1MGEtMzBjYS00MDY2LWI3MDQtZTYxYTAzYjZjOTdkIiwidCI6Ijc2NzM0NDQ5LTkzNGQtNGFlNy1hYzUzLWE5YmZkOTY5MTJjOSIsImMiOjR9
+
+---
+
+## 📄 Archivos Incluidos
+- 📘 **Reporte PDF:** Detalle del Proyecto (`Dashboard_Ventas_PowerBI.pdf`)
+- 📁 **Archivo PBIX:** Dashboard completo en Power BI
+- 🖼️ **Imágenes:** Capturas del tablero (carpeta `img/`)
+
+---
+
 

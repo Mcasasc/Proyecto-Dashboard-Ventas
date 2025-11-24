@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner-dashboard-ventas.png" width="400">
+  <img src="img/banner-dashboard-ventas.png" width="800" height="400">
 </p>
 
 # 📊 Dashboard de Ventas – Power BI
